@@ -1,3 +1,5 @@
-# How Generative AI is Reshaping the Division of Work in Software Engineering Teams
+# The Economics of Optimal Task Allocation Between Humans and AI Agents Under Cost, Complexity, and Uncertainty
 
-Empirical analysis of how Generative AI today reshapes software engineering teams. How does it affect labor demand, skills specialization and team structure/composition? Analyzed using econometric modeling and public labor market data.
+
+**Research Question:** Under what conditions does delegating software engineering tasks to AI agents become economically optimal?
+
